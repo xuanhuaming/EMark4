@@ -93,58 +93,58 @@
  <div class="container">
 		<div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
           <a href="cream" target="_blank">
-                <h3 class="text-center" >T恤</h3>
-                <em > <img src="images/T恤.png" alt="T恤" /></em>
+                <h3 class="text-center" >洗面奶</h3>
+                <em > <img src="images/洗面奶.jpg" alt="洗面奶" /></em>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
           <a href="lotion" target="_blank">
-                <h3 class="text-center">卫衣</h3>
-                <em > <img src="images/卫衣.png" alt="卫衣" /></em>
+                <h3 class="text-center">润肤露</h3>
+                <em > <img src="images/润肤露.jpg" alt="润肤露" /></em>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-          <a href="phoneShell" target="_blank">
-                <h3 class="text-center">手机壳</h3>
-                <em > <img src="images/手机壳.png" alt="手机壳" /></em>
+          <a href="perfume" target="_blank">
+                <h3 class="text-center">香水</h3>
+                <em > <img src="images/香水.jpg" alt="香水" /></em>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
           <a href="toner" target="_blank">
-                <h3 class="text-center">帆布袋</h3>
-                <em > <img src="images/帆布袋.png" alt="帆布袋" /></em>
+                <h3 class="text-center">爽肤水</h3>
+                <em > <img src="images/爽肤水.jpg" alt="爽肤水" /></em>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
           <a href="more" target="_blank">
-                <h3 class="text-center">明信片</h3>
-                <em > <img src="images/明信片.png" alt="明信片" /></em>
+                <h3 class="text-center">精油</h3>
+                <em > <img src="images/精油.jpg" alt="精油" /></em>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
           <a href="more" target="_blank">
-                <h3 class="text-center">台历</h3>
-                <em > <img src="images/台历.png" alt="台历" /></em>
+                <h3 class="text-center">防晒霜</h3>
+                <em > <img src="images/防晒霜.jpg" alt="防晒霜" /></em>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
           <a href="more" target="_blank">
-                <h3 class="text-center">抱枕</h3>
-                <em > <img src="images/抱枕.png" alt="抱枕" /></em>
+                <h3 class="text-center">洗发水</h3>
+                <em > <img src="images/洗发水.jpg" alt="洗发水" /></em>
         </div>
 
         <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
           <a href="more" target="_blank">
-                <h3 class="text-center">束口袋</h3>
-                <em > <img src="images/束口袋.png" alt="束口袋" /></em>
+                <h3 class="text-center">沐浴露</h3>
+                <em > <img src="images/沐浴露.jpg" alt="沐浴露" /></em>
         </div>
 	
 </div>
  
  
 <hr>
-<!-- T恤 -->
+<!-- 洗面奶 -->
 <div class="container">
   <div class="row">
         <div class="col-md-6">
-            <h1 class="text-left">T恤<small>告诉世界你与众不同</small></h1>
+            <h1 class="text-left">洗面奶<small>关爱肌肤，更关爱你</small></h1>
         </div>  
         <div class="col-md-6">	
-            <h3 class="text-right">T-shirt</h3>
+            <h3 class="text-right">Cleansing Cream </h3>
         </div>	
     </div>
 </div>
@@ -152,191 +152,191 @@
 <div class="container">
   <div class="row text-center">
     <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/T恤1.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/洗面奶1.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>BACK TO THE FUTURE！</p>
+            <p>曼秀雷敦（Mentholatum）冰爽活炭洁面乳 </p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="cream" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥40.00</p>
+              <p><a href="cream" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
      </div>
       <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/T恤2.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/洗面奶2.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>Welcome To China</p>
+            <p>欧莱雅（LOREAL）&nbsp; &nbsp;控油炭爽洁面膏</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="cream" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥43.00</p>
+              <p><a href="cream" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/T恤3.1.png" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/洗面奶3.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>Open a door to the land of dark shadows</p>
+            <p>妮维雅<br>(NIVEA)<br>控油亮肤洁面液</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="cream" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥36.00</p>
+              <p><a href="cream" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/T恤4.1.png" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/洗面奶4.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>山姆大叔T恤</p>
+            <p>雅诗兰黛<br>（EsteeLauder）<br>白金保湿洁面乳</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="cream" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥86.00</p>
+              <p><a href="cream" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/T恤5.1.png" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/洗面奶5.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>悟空，愤怒的猴子，降妖除魔，妖孽休扰！</p>
+            <p>兰蔻<br>（LANCOME）<br>新臻白洁面泡沫</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="cream" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥74.00</p>
+              <p><a href="cream" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/T恤6.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/洗面奶6.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>青春有梦 为青春重生</p>
+            <p>碧欧泉<br>（BIOTHERM）<br>净肤细致洁面膏</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="cream" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥66.00</p>
+              <p><a href="cream" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/T恤7.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/洗面奶7.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>百变妖姬 媚惑众生</p>
+            <p>资生堂<br>(SHISEIDO)<br> 控油补水洗面奶</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="cream" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥96.00</p>
+              <p><a href="cream" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div> 
      <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
 	      <div class="thumbnail"> 
-	       <a href="T-shirt"><img src="images/更多.png" alt="Thumbnail Image 1" class="img-responsive"></a>
+	       <a href="cream"><img src="images/更多.png" alt="Thumbnail Image 1" class="img-responsive"></a>
 	      </div> 
       </div> 
 </div>
 
 <hr>
-<!-- 卫衣 -->
+<!-- 润肤乳 -->
 <div class="container">
   <div class="row">
         <div class="col-md-6">
-            <h1 class="text-left">卫衣<small>穿上卫衣，人生这场游戏，玩得酷才行！</small></h1>
+            <h1 class="text-left">润肤乳<small>让肌肤散发迷人魅力</small></h1>
         </div>  
         <div class="col-md-6">	
-            <h3 class="text-right">Sweater</h3>
+            <h3 class="text-right">Body Lotion</h3>
         </div>	
     </div>
 </div>
 <div class="container">
   <div class="row text-center">
     <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/卫衣1.1.png" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/润肤乳1.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>潮酷  自由的生活态度</p>
+            <p>强生美肌<br>（Johnson）<br>悠然舒缓润肤乳</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="lotion" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥33.00</p>
+              <p><a href="lotion" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
      </div>
       <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/卫衣2.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/润肤乳2.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>跳出舒适区，刻意练习。</p>
+            <p>凡士林<br>（Vaseline）<br>芦荟舒缓润肤乳</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="sweate" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥56.00</p>
+              <p><a href="lotion" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/卫衣3.1.png" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/润肤乳3.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>相公款 ONLYOU 爱你一万年</p>
+            <p>妮维雅<br>（NIVEA）<br>保湿滋润润肤乳</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="sweate" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥28.00</p>
+              <p><a href="lotion" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/卫衣4.1.png" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/润肤乳4.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>娘子款 ONLYOU 爱你一万年！</p>
+            <p>百雀羚<br>（PECHOIN）<br>止痒抗燥润肤乳</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="sweate" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥35.00</p>
+              <p><a href="lotion" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/卫衣5.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/润肤乳5.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>他们总是说时间会改变事情，但事实上你得自己去改变它们。！</p>
+            <p>安利<br>（Amway）<br>深沉护理润肤乳</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="sweate" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥86.00</p>
+              <p><a href="lotion" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/卫衣6.1.png" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/润肤乳6.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>日常通勤必備良品，應對自如游刃有餘。</p>
+            <p>雅芳<br>（AVON）<br>淡香滋润润肤乳</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="sweate" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥54.00</p>
+              <p><a href="lotion" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/卫衣7.1.png" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/润肤乳7.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>暴力熊本桑 出没请注意</p>
+            <p>欧舒丹<br>（L’OCCITANE）<br>玫瑰皇后润肤乳</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="sweate" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥229.00</p>
+              <p><a href="lotion" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div> 
@@ -348,100 +348,100 @@
   </div> 
 </div>
 <hr>
-<!-- 手机壳 -->
+<!-- 香水 -->
 <div class="container">
   <div class="row">
         <div class="col-md-6">
-            <h1 class="text-left">手机壳<small>把喜爱每天都捧在手心</small></h1>
+            <h1 class="text-left">香水<small>彰显无限摩登魅力</small></h1>
         </div>  
         <div class="col-md-6">	
-            <h3 class="text-right">PhoneShell</h3>
+            <h3 class="text-right">Perfume</h3>
         </div>	
     </div>
 </div>
 <div class="container">
   <div class="row text-center">
     <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/手机壳1.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/香水1.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>寡人的手机 你别碰！</p>
+            <p>香奈儿<br>（Chanel）<br>粉色柔情淡香水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="phoneShell" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥358.00</p>
+              <p><a href="perfume" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
      </div>
       <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/手机壳2.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/香水2.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>现在总有些刁民想谋害朕！</p>
+            <p>兰蔻<br>（LANCOME）<br>午夜玫瑰淡香水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="phoneShell" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥499.00</p>
+              <p><a href="perfume" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/手机壳3.1.png" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/香水3.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>龙拳在手，揍你成狗！</p>
+            <p>阿迪达斯<br>（Adidas）<br>男士古龙香水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="phoneShell" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥185.00</p>
+              <p><a href="perfume" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/手机壳4.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/香水4.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>本喵大人就这样盯着你，小样儿</p>
+            <p>卡文克莱<br>（CalvinKlein）<br>绝色魅影淡香水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="phoneShell" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥299.00</p>
+              <p><a href="perfume" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/手机壳5.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/香水5.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>《山海经》：“···有乘黄，其状如狐，其背上有角，乘之寿二千岁。 ”</p>
+            <p>古驰<br>（GUCCI）<br>绚丽栀子淡香水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="phoneShell" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥850.00</p>
+              <p><a href="perfume" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/手机壳6.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/香水6.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>任凭弱水三千，我只取一瓢~！</p>
+            <p>宝格丽<br>（BVLGARI）<br>馥郁玫瑰淡香水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="phoneShell" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥288.00</p>
+              <p><a href="perfume" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/手机壳7.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/香水7.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>鹊桥下的爱，祝有情人终成眷属。</p>
+            <p>博柏利<br>（BURBERRY)<br>红粉恋歌淡香水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="phoneShell" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥269.00</p>
+              <p><a href="perfume" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div> 
@@ -453,100 +453,100 @@
   </div> 
 </div> 
 <hr>
-<!-- 帆布袋 -->
+<!-- 爽肤水 -->
 <div class="container">
   <div class="row">
         <div class="col-md-8">
-            <h1 class="text-left">帆布袋<small>一个简单的帆布袋，装上惬意心情，去寻找生活中的美好</small></h1>
+            <h1 class="text-left">爽肤水<small>纯手工采酿，只为您的肌肤</small></h1>
         </div>  
         <div class="col-md-4">	
-            <h3 class="text-right">Canvas Bag</h3>
+            <h3 class="text-right">Toner</h3>
         </div>	
     </div>
 </div>
 <div class="container">
   <div class="row text-center">
     <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/帆布袋1.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/爽肤水1.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>almost lover！</p>
+            <p>曼秀雷敦<br>(Mentholatum)<br>男士能量爽肤水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="toner" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥76.00</p>
+              <p><a href="toner" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
      </div>
       <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/帆布袋2.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/爽肤水2.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>等式的性质考虑a=b，敲黑板！</p>
+            <p>欧莱雅<br> （LOREAL）<br>葡萄精华爽肤水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="toner" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥138.00</p>
+              <p><a href="toner" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/帆布袋3.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/爽肤水3.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>自从来到这个世界，俺老孙无悔！</p>
+            <p>兰蔻<br>（LANCOME）<br>清滢洁柔爽肤水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="toner" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥399.00</p>
+              <p><a href="toner" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/帆布袋4.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/爽肤水4.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>网上很流行的一张哈士奇的表情，每次看到都会觉得很逗，希望给你带来好心情</p>
+            <p>玉兰油 <br>（Olay）<br>保湿美白爽肤水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="toner" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥78.00</p>
+              <p><a href="toner" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/帆布袋5.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/爽肤水5.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>生活已经如此不易，别有那么多不开心，人生苦短，及时行乐。</p>
+            <p>自然堂<br>（CHANDO）<br>活泉矿物爽肤水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="toner" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥89.00</p>
+              <p><a href="toner" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/帆布袋6.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/爽肤水6.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>喜欢就买，不行就分，任性如我</p>
+            <p>雅诗兰黛<br>（EsteeLauder）<br>红石榴爽肤水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="toner" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥275.00</p>
+              <p><a href="toner" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div>
        <div class="col-sm-3 col-md-3 col-lg-3 col-xs-6">
-      <div class="thumbnail"> <img src="images/帆布袋7.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="images/爽肤水7.1.jpg" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <div class="col-md-7" > 
-            <p>要自由，给谁要呢，你问我么，我不知道耶，哈哈哈！</p>
+            <p>倩碧<br>（CLINIQUE）<br>男士保湿爽肤水</p>
           </div>
           <div class="col-md-5"></div>
-              <p>¥85.00</p>
-              <p><a href="toner" class="btn btn-warning" role="button"> 立即购买</a></p>
+              <p>¥189.00</p>
+              <p><a href="toner" class="btn btn-success" role="button"> 立即购买</a></p>
         </div>
        </div>
       </div> 
