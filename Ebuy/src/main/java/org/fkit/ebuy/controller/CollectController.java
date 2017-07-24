@@ -2,6 +2,7 @@ package org.fkit.ebuy.controller;
 
 import java.util.List;
 
+import javax.servlet.http.HttpServletRequest;
 
 import org.fkit.ebuy.domain.Collect;
 import org.fkit.ebuy.service.CollectService;
@@ -39,15 +40,19 @@ public class CollectController {
 		return "collection";
 	}
 	@RequestMapping(value="/newcollect")
-	 public ModelAndView newcollect(int id,
+	 public ModelAndView newcollect( HttpServletRequest request,
+			 int id,
 			 String goodsname,
 				String price, 
 				String image, 
 				String descripts,
-				String username,
+				String username,	
 			   ModelAndView mv ){
+		String goodsname1 = request.getParameter("goodsname");				
+		Collect collect=collectService.findcollect(goodsname1,username);
+				if(collect==null){
 		Collect newcollect = collectService.newcollect(id,goodsname, price,image,descripts,username);
-		mv.setViewName("product");
+		}mv.setViewName("product");
 		return mv;
 	}
 	

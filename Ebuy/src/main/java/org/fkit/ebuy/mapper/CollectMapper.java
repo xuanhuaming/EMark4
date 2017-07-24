@@ -26,6 +26,9 @@ public interface CollectMapper {
    
 	@Delete("delete from tb_collect where id=#{id}")
 	void decollect(int id);
+
+	@Select(" select * from tb_collect where goodsname=#{goodsname} and username=#{usersname}")
+			Collect findcollect(@Param("goodsname")String goodsname,@Param("usersname")String username);
    
 
 }

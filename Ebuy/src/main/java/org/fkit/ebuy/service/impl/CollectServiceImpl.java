@@ -41,7 +41,10 @@ public class CollectServiceImpl implements CollectService {
 		// TODO Auto-generated method stub
 		return collectMapper.insertcollect(id,goodsname, price,image,descripts,username);
 	}
-
+	@Override
+	public Collect findcollect(String goodsname1,String username){
+		return collectMapper.findcollect(goodsname1,username);
+	}
 	@Override
 	public void decollect(int id) {
 		// TODO Auto-generated method stub

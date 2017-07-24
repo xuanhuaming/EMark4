@@ -9,6 +9,7 @@ public class Collect {
     private String image;
     private String descripts;
     private String username;
+ 
   
  
 	public int getId() {
@@ -20,6 +21,7 @@ public class Collect {
 	public String getGoodsname() {
 		return goodsname;
 	}
+	
 	public void setGoodsname(String goodsname) {
 		this.goodsname = goodsname;
 	}

@@ -23,4 +23,8 @@ public interface CollectService {
 
 	void decollect(int id);
 
+	Collect findcollect(String goodsname1,String userName);
+
+
+
 }
