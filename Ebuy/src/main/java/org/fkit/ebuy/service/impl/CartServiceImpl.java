@@ -2,6 +2,7 @@ package org.fkit.ebuy.service.impl;
 
 import java.util.List;
 import org.fkit.ebuy.domain.Cart;
+import org.fkit.ebuy.domain.Collect;
 import org.fkit.ebuy.mapper.CartMapper;
 import org.fkit.ebuy.service.CartService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -41,7 +42,14 @@ public class CartServiceImpl implements CartService {
 		return cartMapper.insertcart(id,name, price,image,number,username);
 
 	}
-
+	@Override
+	public Cart findcart(String name1,String username){
+		return cartMapper.findcart(name1,username);
+	}
+	@Override
+	public Cart increasecart(String name,int number,String username){
+		return cartMapper.increasecart(name,username,number);
+	}
 	@Override
 	public void decart(int id) {
 		// TODO Auto-generated method stub

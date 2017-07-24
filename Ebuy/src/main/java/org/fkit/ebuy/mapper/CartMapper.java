@@ -32,4 +32,11 @@ public interface CartMapper {
 	
 	@Select("update tb_cart set number=#{number} where id=#{id} and username=#{username}")
 	Cart updatecart(@Param("id")int id,@Param("username")String username,@Param("number")String number);
+
+	@Select(" select * from tb_cart where name=#{name} and username=#{usersname}")
+			Cart findcart(@Param("name")String name,@Param("usersname")String username);
+	
+	@Select("update tb_cart set number=#{number}+1 where name=#{name} and username=#{username}")
+	Cart increasecart(@Param("name")String name,@Param("username")String username,@Param("number")int number);
+
 }

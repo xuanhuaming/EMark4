@@ -3,6 +3,7 @@ package org.fkit.ebuy.service;
 import java.util.List;
 
 import org.fkit.ebuy.domain.Cart;
+import org.fkit.ebuy.domain.Collect;
 
 
 
@@ -23,6 +24,7 @@ public interface CartService {
 
 	Cart updatecart(int id, String username, String number);
 
-	
+	Cart findcart(String name1,String userName);
 
+	Cart increasecart(String name,int number,String username);
 }

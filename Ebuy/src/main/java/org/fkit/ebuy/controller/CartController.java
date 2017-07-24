@@ -2,6 +2,7 @@ package org.fkit.ebuy.controller;
 
 import java.util.List;
 
+import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
 import org.fkit.ebuy.domain.Cart;
@@ -44,14 +45,22 @@ public class CartController {
 		return "cart";
 	}
 	@RequestMapping(value="/newcart")
-	 public ModelAndView newcart(int id,
+	 public ModelAndView newcart(HttpServletRequest request,
+			 int id,
 			 String name,
 				String price, 
 				String image, 
 				String number,
 				String username,
-			   ModelAndView mv ){
-		Cart newcart = cartService.newcart(id,name, price,image,number,username);
+			   ModelAndView mv ){String name1 = request.getParameter("name");				
+		Cart cart=cartService.findcart(name1,username);
+		int number1=Integer.valueOf(number);
+				if(cart!=null){
+		Cart newcart=cartService.increasecart(name,number1,username);		
+					}
+				if(cart==null){
+		Cart newcart = cartService.newcart(id,name, price,image,number,username);}
+			
 		mv.setViewName("product");
 		return mv;
 	}
