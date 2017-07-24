@@ -8,7 +8,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>易购</title>
+<title>亿玛</title>
 
 <!-- Bootstrap -->
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -25,7 +25,7 @@
  <div class="container">
   <div class="row"> 
         <div class="col-md-10  col-sm-6"  > 
-           <a>易购欢迎你</a>
+           <a>亿玛欢迎您</a>
         </div>
         <div class="col-md-2">
 			<a href="loginForm"  >用户登录</a>
@@ -35,7 +35,7 @@
     <br> <hr>
  <h1>添加商品成功</h1>
  <div class="col-md-6 col-md-offset-4">
- 	<a href="addproduct" class="btn btn-warning btn-lg">继续添加</a>
+ 	<a href="addproduct" class="btn btn-success btn-lg">继续添加</a>
   </div>
   <div class="col-md-6 col-md-offset-4">
  	<a href="adminmain" class="btn btn-default btn-lg">返回主页</a>
@@ -44,7 +44,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <p>Copyright ©YX MyWebsite. All rights reserved.</p>
+        <p>Copyright ©EMark 2017. All rights reserved.</p>
       </div>
     </div>
   </div>
